@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DbInteractionPet": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Projects\\DbInteractionPet\\DbInteractionPet"
+    }
+  }
+}
